@@ -11,3 +11,4 @@
 |6|||
 |7|||
 |8|Frontend with Kristi and Matt |https://youtu.be/6XAEKqLrCU4?si=deDYo2Ga1KOE5f5t |
+|8|Deepseek in AWS Lambda with Gloria |  https://youtu.be/MY94kiTfYdk?si=qFc9jznw8ucsTu5W| 
